@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: page-empty
 title: Donate
 permalink: /donate/
 ---
